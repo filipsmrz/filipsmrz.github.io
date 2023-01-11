@@ -1,13 +1,13 @@
 ---
-title: Sprint 15 for (V1.64.1.4)
-date: 7.2.2023
+title: Sprint 16 for (V1.64.1.5)
+date: 8.2.2023
 product_name: TestFW V2.0
 git_branch: master
-git_revision: 1.64.1.4_23.777
+git_revision: 1.64.1.5_23.777
 versions:
-  Pro: V1.64.1.4
-  Eco: V1.64.1.4
-  Firmware: V1.64.1.4
+  Pro: V1.64.1.5
+  Eco: V1.64.1.5
+  Firmware: V1.64.1.5
 packages:
   packages:
   - https://11.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Pro_1.64.6.0_21.9.8.777.seco
