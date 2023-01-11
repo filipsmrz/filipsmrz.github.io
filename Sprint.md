@@ -2,6 +2,7 @@
 title: "Sprint xx for (V1.64.x.x)"
 date: 1.2.2023
 ---
+
 product_name: TestFW V2.0
 git_branch: master
 git_revision: xxxxx
@@ -23,7 +24,7 @@ tickets:
             - "FW-9493: Library IoTDriver"
         Restrictions:
             - "Pro controller doesn't boot with connected USB key"
-
+            
     Company Internal:
         New Functions:
             - "FW-9442: VxWorks 7"
