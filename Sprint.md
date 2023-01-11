@@ -3,17 +3,23 @@ title: "Sprint xx for (V1.64.x.x)"
 date: 1.2.2023
 ---
 product_name: TestFW V2.0
+
 git_branch: master
+
 git_revision: xxxxx
+
 versions:
+
     Pro: V1.64.x.x
     Eco: V1.64.x.x
     Firmware: V1.64.x.x
 packages: 
+
     packages: 
     - https://xx.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Pro_1.64.6.0_21.9.8.777.seco
     - https://xx.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Eco_1.64.6.0_21.9.8.777.seco
 tickets:
+
     Official:
         New Functions:
             - "FW-1234: SP16 patch4 hotfix1"
