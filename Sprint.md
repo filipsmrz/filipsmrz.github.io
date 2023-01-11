@@ -38,6 +38,6 @@ tickets:
         Closed Bugs:
             - "FW-9476: Remove compiler warning"    
         Refactoring:
-	    - "FW-9913: Update default US objects"
+            - "FW-9913: Update default US objects"
           
 ---
