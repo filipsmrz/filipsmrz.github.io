@@ -1,6 +1,6 @@
 ---
 title: "Sprint xx for (V1.64.x.x)"
-date: x.2.2023
+date: 1.2.2023
 
 product_name: TestFW V2.0
 git_branch: master
