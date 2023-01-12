@@ -1,21 +1,21 @@
 ---
 title: Sprint
 ---
-title: Sprint 250 for (V1.64.4.6)
+title: Sprint 3 for (1.1)
 
-date: 10.2.2023
+date: '3'
 
 product_name: TestFW V2.0
 
 git_branch: master
 
-git_revision: 1.64.4.6_23.777
+git_revision: .1_3.777
 
 versions:
 
-    Pro: V1.64.4.6
-    Eco: V1.64.4.6
-    Firmware: V1.64.4.6
+    Pro: '1.1'
+    Eco: '1.1'
+    Firmware: '1.1'
 packages:
 
     packages:
