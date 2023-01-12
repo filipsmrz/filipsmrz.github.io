@@ -34,7 +34,7 @@ tickets:
             - Pro controller doesn't boot with connected USB key
     Company Internal:
         New Functions:
-            - 'FW-9442: V1.64.1.1.Works 7'
+            - '''FW-9442: V1.64.1.9.Works 7'''
         Closed Bugs:
             - 'FW-9514: Library MotionInterface'
             - 'FW-9394: Controllers stuck in boot state forever'
