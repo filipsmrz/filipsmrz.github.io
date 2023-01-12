@@ -1,10 +1,10 @@
 ---
 title: Sprint
 ---
-title: Sprint 12321 for (V1.64.1.2)
+title: Sprint 11 for (V1.64.2.6)
 
 
-date: 1.2.2023
+date: 7.2.2023
 
 
 product_name: TestFW V2.0
@@ -13,20 +13,20 @@ product_name: TestFW V2.0
 git_branch: master
 
 
-git_revision: 1.64.1.2_23.777
+git_revision: 1.64.2.6_23.777
 
 
 versions:
 
-    Pro: V1.64.1.2
-    Eco: V1.64.1.2
-    Firmware: V1.64.1.2
+    Pro: V1.64.2.6
+    Eco: V1.64.2.6
+    Firmware: V1.64.2.6
 
 packages:
 
     packages:
-        - https://12321.test.com/svn/releases/V2.0/V2.0_Release/Sprint%12321/Pro_1.64.1.2_23.777.seco
-        - https://12321.test.com/svn/releases/V2.0/V2.0_Release/Sprint%12321/Eco_1.64.1.2_23.777.seco
+        - https://11.test.com/svn/releases/V2.0/V2.0_Release/Sprint%11/Pro_1.64.2.6_23.777.seco
+        - https://11.test.com/svn/releases/V2.0/V2.0_Release/Sprint%11/Eco_1.64.2.6_23.777.seco
 
 tickets:
 
