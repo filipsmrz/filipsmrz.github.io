@@ -2,34 +2,19 @@
 title: Sprint
 ---
 title: Sprint 12321 for (V1.64.1.1)
-
-
 date: 1.2.2023
-
-
 product_name: TestFW V2.0
-
-
 git_branch: master
-
-
 git_revision: 1.64.1.1_23.777
-
-
 versions:
-
     Pro: V1.64.1.1
     Eco: V1.64.1.1
     Firmware: V1.64.1.1
-
 packages:
-
     packages:
         - https://12321.test.com/svn/releases/V2.0/V2.0_Release/Sprint%12321/Pro_1.64.1.1_23.777.seco
         - https://12321.test.com/svn/releases/V2.0/V2.0_Release/Sprint%12321/Eco_1.64.1.1_23.777.seco
-
 tickets:
-
     Official:
         New Functions:
             - 'FW-1234: SP16 patch4 hotfix1'
