@@ -16,11 +16,13 @@ versions:
     Pro: V1.64.2.2
     Eco: V1.64.2.2
     Firmware: V1.64.2.2
+    
 packages:
 
     packages:
         - https://1.64.2.2.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Pro_1.64.2.2_23.777.seco
         - https://1.64.2.2.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Eco_1.64.2.2_23.777.seco
+        
 tickets:
 
     Official:
