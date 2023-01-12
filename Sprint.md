@@ -19,8 +19,8 @@ versions:
 packages:
 
     packages:
-        - https://11.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Pro_1.64.6.0_21.9.8.777.seco
-        - https://11.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Eco_1.64.6.0_21.9.8.777.seco
+        - https://1.64.1.9.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Pro_1.64.1.9_23.777.seco
+        - https://1.64.1.9.test.com/svn/releases/V2.0/V2.0_Release/Sprint%2064/Eco_1.64.1.9_23.777.seco
 tickets:
 
     Official:
